@@ -5,20 +5,20 @@
 </div>
 
 ## Profile
-Name : Mr.Jarurak Kampanthong
-Age : 22 Years ago
-Birth date : 23 December 2002
+Name : Mr.Jarurak Kampanthong  
+Age : 22 Years ago  
+Birth date : 23 December 2002  
 Location : Chonburi, Thailand
 
 ## Skills
 
 ## Education
-Bachelor of Science (Information Technology)
-Thai-Nichi Institute of Technology, Bangkok
+**Bachelor of Science (Information Technology)**  
+Thai-Nichi Institute of Technology, Bangkok  
 2023 - Now
 
-High vocational certificate Computer Technology
-Thai-Austrian Technical College, Chonburi
+**High vocational certificate Computer Technology**  
+Thai-Austrian Technical College, Chonburi  
 2021 - 2023
 
 ## Work Experience

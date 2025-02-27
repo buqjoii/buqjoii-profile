@@ -4,14 +4,11 @@
 <img src = "profile.jpg" height = "250">
 </div>
 
-## About me
-
-Full name : Mr.Jarurak Kampanthong
+## Profile
+Name : Mr.Jarurak Kampanthong
 Age : 22 Years ago
 Birth date : 23 December 2002
 Location : Chonburi, Thailand
-
-## Profile
 
 ## Skills
 

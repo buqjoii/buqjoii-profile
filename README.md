@@ -3,7 +3,7 @@
 <img src = "Google Data Analyst Badge.png" height = "80">
 <h2>🙏🏻 สวัสดีครับ (Sawasdee krub) 🙏🏻, I'm Jarurak Kampanthong! </h2>
 </div>
-Hi! My name is Jay, I work as a Cluster Reservation Agent at Bayphere Hotel Pattaya and Howard Johnson by Wyndham Pattaya JC. However, I am passionate about Data Analytics and have been expanding my knowledge through continuous learning.
+Hi! My name is Jay, I work as a Cluster Reservation Agent at Bayphere Hotel Pattaya and Howard Johnson by Wyndham Pattaya JC. I am passionate about Data Analytics and have been expanding my knowledge through continuous learning.
 
 ## Working Experience
 **Cluster Reservation Agent**  
@@ -30,7 +30,6 @@ Thai-Austrian Technical College, Chonburi
 ## Skills
 **Programming Languages**  
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 
 **Libraries and Frameworks**  
 <img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">

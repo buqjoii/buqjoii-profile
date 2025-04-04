@@ -1,5 +1,6 @@
 <div align = "center">
 <img src = "profile.jpg" height = "250">
+<img src = "Google Data Analyst Badge.png" height = "120">
 <h2>🙏🏻 สวัสดีครับ (Sawasdee krub) 🙏🏻, I'm Jarurak Kampanthong! </h2>
 </div>
 Hi! My name is Jay, I work as a Cluster Reservation Agent at Bayphere Hotel Pattaya and Howard Johnson by Wyndham Pattaya JC. However, I am passionate about Data Analytics and have been expanding my knowledge through continuous learning.
@@ -27,13 +28,20 @@ Thai-Austrian Technical College, Chonburi
 2021 - 2023
 
 ## Skills
-*Techical and Tools**  
-- SQL
-- Python
-- Google Sheet
-- Excel
-- Power BI
+**Programming Languages**  
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+
+**Libraries and Frameworks**  
+<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
+
+**Databases**    
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+
 
 ## Certificate
-[Google Data Analyst]<img src = "" height = "250">
-  
+<img src = "SkillKamp Data Analyst Test.jpeg" height = "520">  
+[Skill Kamp Data Analyst Test]
+
+<img src = "SkillKamp Data Analyst Test.jpeg" height = "520">  
+[Skill Kamp Data Analyst Test]

@@ -1,6 +1,6 @@
 <div align = "center">
 <img src = "profile.jpg" height = "250">
-<img src = "Google Data Analyst Badge.png" height = "120">
+<img src = "Google Data Analyst Badge.png" height = "80">
 <h2>🙏🏻 สวัสดีครับ (Sawasdee krub) 🙏🏻, I'm Jarurak Kampanthong! </h2>
 </div>
 Hi! My name is Jay, I work as a Cluster Reservation Agent at Bayphere Hotel Pattaya and Howard Johnson by Wyndham Pattaya JC. However, I am passionate about Data Analytics and have been expanding my knowledge through continuous learning.
@@ -40,8 +40,14 @@ Thai-Austrian Technical College, Chonburi
 
 
 ## Certificate
-<img src = "SkillKamp Data Analyst Test.jpeg" height = "520">  
-[Skill Kamp Data Analyst Test]
+**Google Data Analytics** <br>
+<img src = "Cert. Google Data Analytics.png" height = "380">  
 
+**Skill Kamp Data Analyst Test** <br>
 <img src = "SkillKamp Data Analyst Test.jpeg" height = "520">  
-[Skill Kamp Data Analyst Test]
+
+**Data Analyst Manifesto** <br>
+<img src = "Cert. Data Analyst Manifesto.png" height = "380">  
+
+**Mini Data Science Bootcamp 2023** <br>
+<img src = "Cert. Mini Data Science Bootcamp 2023.png" height = "380">  
